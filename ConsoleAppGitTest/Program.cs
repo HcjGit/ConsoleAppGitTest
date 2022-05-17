@@ -10,6 +10,7 @@ namespace ConsoleAppGitTest
     {
         static void Main(string[] args)
         {
+            //メッセージを表示する
             Console.WriteLine("Hello");
         }
     }

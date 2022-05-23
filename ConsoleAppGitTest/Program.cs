@@ -13,6 +13,8 @@ namespace ConsoleAppGitTest
             //メッセージを表示する
             Console.WriteLine("Hello");
             int i = 5 + 10;
+
+            //さらにコメント追加
         }
     }
 }

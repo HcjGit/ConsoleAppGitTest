@@ -15,6 +15,9 @@ namespace ConsoleAppGitTest
             int i = 5 + 10;
 
             //さらにコメント追加
+
+            //日付の計算式を追加してみた。
+            DateTime dt = DateTime.Now.AddDays(5);
         }
     }
 }
